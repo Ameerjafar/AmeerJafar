@@ -34,7 +34,7 @@ I'm currently working on improving my expertise in the following areas:
 Feel free to reach out to me through the following platforms:
 - [LinkedIn](https://www.linkedin.com/in/ameerjafar)
 - [Twitter](https://twitter.com/ameerjafar)
-- [Personal Website](https://yourwebsite.com)
+
 
 Thank you for visiting my GitHub profile! 😊
 
