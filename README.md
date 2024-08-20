@@ -24,12 +24,9 @@ I'm currently working on improving my expertise in the following areas:
 ## 📫 Connect with Me
 
 Feel free to reach out to me through the following platforms:
-- [LinkedIn](https://www.linkedin.com/in/ameerjafar)
-- [Twitter](https://twitter.com/ameerjafar)
-- [Personal Website](https://yourwebsite.com)
-
+- [LinkedIn](https://www.linkedin.com/in/ameer-jafar-3b6864240/)
+- [Twitter]((https://x.com/AJTECH37177095)
+  
 Thank you for visiting my GitHub profile! 😊
 
 ---
-
-*This README is automatically generated and updated based on my latest activities and achievements.*
