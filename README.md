@@ -14,7 +14,7 @@ I'm a developer who enjoys building dynamic and responsive web applications. Wit
 
 I'm currently working on improving my expertise in the following areas:
 - Enhancing my React.js and Node.js skills
-- Exploring advanced features of Prisma and SQL databases
+- Exploring features of next.js
 - Learning new tools and frameworks to stay updated with the latest industry trends
 
 ## 📈 GitHub Stats
