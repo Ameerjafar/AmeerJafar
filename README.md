@@ -19,7 +19,7 @@ I'm currently working on improving my expertise in the following areas:
 
 ## 📈 GitHub Stats
 
-![Ameer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ameerjafar&show_icons=true&hide_title=true&count_private=true&hide=prs&include_all_commits=true&theme=dark)
+![Ameer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ameerjafar&show_icons=true&hide_title=true&count_private=true&hide=prs&include_all_commits=true&theme=dark)
 
 ## 📫 Connect with Me
 
