@@ -17,19 +17,6 @@ I'm currently working on improving my expertise in the following areas:
 - Exploring features of next.js
 - Learning new tools and frameworks to stay updated with the latest industry trends
 
-## 📈 GitHub Stats
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Ameerjafar&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Ameerjafar&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Ameerjafar&show_icons=true" />
-</picture>
 
 ## 📫 Connect with Me
 
